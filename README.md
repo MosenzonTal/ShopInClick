@@ -1,5 +1,9 @@
 # ShopInClick
-As an Inventory Management application i chose to build ShopInClick - A web app store which supports different operations which simulating proccess of buying products online until the checkout stage.
+
+As an Inventory Management application i chose to build ShopInClick - 
+
+
+A web app store which supports different operations which simulating proccess of buying products online until the checkout stage.
 
 ## built on a Stack of:
 
