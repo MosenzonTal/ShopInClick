@@ -7,7 +7,7 @@ A web app store which supports different operations which simulating proccess of
 
 ## built on a Stack of:
 
-#### BackEnd: NodeJS, connected to MySQL database.
+#### BackEnd: NodeJS, connected to MySQL database
 
 #### FrontEnd: Angular 10, Bootstrap v4.4.1, HTML, CSS, JavaScript
 
