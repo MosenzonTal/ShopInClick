@@ -9,7 +9,7 @@ A web app store which supports different operations which simulating proccess of
 
 #### BackEnd: NodeJS, connected to MySQL database.
 
-#### FrontEnd: Angular 10, Bootstrap v4.4.1, HTML, JavaScript, TypeScript
+#### FrontEnd: Angular 10, Bootstrap v4.4.1, HTML, JavaScript
 
 ![alt text](https://i.ibb.co/3B9VJh5/58a06230-134c-41ff-bb8f-636b479350ec-200x200.png)
 
