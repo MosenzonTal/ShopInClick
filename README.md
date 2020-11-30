@@ -9,7 +9,7 @@ The application allows the viewing and managing a list of items in an inventory.
 
 ### Back-End ###
 
-the server listens to port 3000 and expose the following
+the server listens to port 3000 and expose the following <br>
  ● REST APIs :<br>
  
 ○ Get All products - Returns a list of all items in the inventory. <br>
@@ -18,12 +18,12 @@ the server listens to port 3000 and expose the following
 ○ Add Product to Cart - Add a new item to the cart. <br>
 ○ Remove Product - remove item from cart.<br>
 ○ Calculate Total – calculate the sum of the products in cart. <br>
-● Static Content - Serve Front-end resources (HTML, CSS, JS, etc.) from a public folder .
-Each item include the following properties:
- ● id - unique id for the item
- ● name – string
- ● description - string 
-● count - positive integer number
+● Static Content - Serve Front-end resources (HTML, CSS, JS, etc.) from a public folder.<br>
+Each item include the following properties:<br>
+ ● id - unique id for the item<br>
+ ● name – string<br>
+ ● description - string <br>
+● count - positive integer number<br>
 
 
 
