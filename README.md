@@ -23,7 +23,7 @@ Each item include the following properties:<br>
 ● id - unique id for the item<br>
 ● name – string<br>
 ● description - string <br>
-● count - positive integer number<br>
+● ####count -#### positive integer number<br>
 
 
 
