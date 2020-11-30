@@ -32,7 +32,7 @@ From this list, the user should be able to perform simple actions on specific it
 
 ## built on a Stack of:
 
-#### BackEnd: NodeJS, connected to MySQL database
+#### BackEnd: NodeJS, connected to MySQL database, TypeScript
 
 #### FrontEnd: Angular 10, Bootstrap v4.4.1, HTML, CSS, JavaScript
 
