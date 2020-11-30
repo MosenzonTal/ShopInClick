@@ -18,11 +18,11 @@ the server listens to port 3000 and expose the following <br>
 ○ Remove Product - remove item from cart.<br>
 ○ Calculate Total – calculate the sum of the products in cart. <br>
 <br>
-● Static Content - Serve Front-end resources (HTML, CSS, JS, etc.) from a public folder.<br>
+
 Each item include the following properties:<br>
- ● id - unique id for the item<br>
- ● name – string<br>
- ● description - string <br>
+● id - unique id for the item<br>
+● name – string<br>
+● description - string <br>
 ● count - positive integer number<br>
 
 
