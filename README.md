@@ -28,7 +28,7 @@ Each item include the following properties:<br>
 ### Front-End ###
 Built on the use of an Angular project for the front-end of the application, with Bootstrap for styling. <br>
 The app include one dashboard page to display the list of inventory items with basic information, and a mechanism to add new items. <br>
-From this list, the user should be able to perform simple actions on specific items such as deleting items, updating items, and withdrawing or depositing items to update <br>their count.
+From this list, the user should be able to perform simple actions on specific items such as deleting items, updating items, and withdrawing or depositing items to update their count.
 
 
 ## built on a Stack of:
