@@ -10,9 +10,10 @@ The application allows the viewing and managing a list of items in an inventory.
 ### Back-End ###
 
 the server listens to port 3000 and expose the following
- ● REST APIs :
-○ Get All products - Returns a list of all items in the inventory.
- ○ Get Single Product By ID - Find item by ID and return the item details from the inventory.
+ ● REST APIs :<br>
+ 
+○ Get All products - Returns a list of all items in the inventory. <br>
+ ○ Get Single Product By ID - Find item by ID and return the item details from the inventory. <br>
  ○ Update Cart Items - update the number of items in the cart. 
 ○ Add Product to Cart - Add a new item to the cart. 
 ○ Remove Product - remove item from cart.
