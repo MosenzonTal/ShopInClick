@@ -17,7 +17,6 @@ the server listens to port 3000 and expose the following <br>
 ○ Add Product to Cart - Add a new item to the cart. <br>
 ○ Remove Product - remove item from cart.<br>
 ○ Calculate Total – calculate the sum of the products in cart. <br>
-<br>
 
 Each item include the following properties:<br>
 ● id - unique id for the item<br>
