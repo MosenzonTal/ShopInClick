@@ -13,11 +13,11 @@ the server listens to port 3000 and expose the following
  ● REST APIs :<br>
  
 ○ Get All products - Returns a list of all items in the inventory. <br>
- ○ Get Single Product By ID - Find item by ID and return the item details from the inventory. <br>
- ○ Update Cart Items - update the number of items in the cart. 
-○ Add Product to Cart - Add a new item to the cart. 
-○ Remove Product - remove item from cart.
-○ Calculate Total – calculate the sum of the products in cart. 
+○ Get Single Product By ID - Find item by ID and return the item details from the inventory. <br>
+○ Update Cart Items - update the number of items in the cart. <br>
+○ Add Product to Cart - Add a new item to the cart. <br>
+○ Remove Product - remove item from cart.<br>
+○ Calculate Total – calculate the sum of the products in cart. <br>
 ● Static Content - Serve Front-end resources (HTML, CSS, JS, etc.) from a public folder .
 Each item include the following properties:
  ● id - unique id for the item
