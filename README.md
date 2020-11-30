@@ -3,7 +3,6 @@
 ### An Inventory Management application - ###
 
 A web app store which supports different operations which simulating proccess of buying products online until the checkout stage.
-
 ShopInClick Is a web app store which supports different operations which simulating proccess of buying products online until the checkout stage. 
 The application allows the viewing and managing a list of items in an inventory. It allows simple actions such as adding new items, updating item details, deleting an item, and controlling each item count with withdrawal and deposit operations. The app consists of a backend system serving APIs and a web frontend displaying the items and allowing the user to perform the different actions. 
 
