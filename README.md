@@ -7,7 +7,7 @@ A web app store which supports different operations which simulating proccess of
 ShopInClick Is a web app store which supports different operations which simulating proccess of buying products online until the checkout stage. 
 The application allows the viewing and managing a list of items in an inventory. It allows simple actions such as adding new items, updating item details, deleting an item, and controlling each item count with withdrawal and deposit operations. The app consists of a backend system serving APIs and a web frontend displaying the items and allowing the user to perform the different actions. 
 
-### Back-End ###
+## Back-End ##
 
 the server listens to port 3000 and expose the following <br>
  ● REST APIs :<br> 
@@ -25,7 +25,7 @@ Each item include the following properties:<br>
 ● description - string <br>
 ● count - positive integer number<br>
 
-### Front-End ###
+## Front-End ##
 Built on the use of an Angular project for the front-end of the application, with Bootstrap for styling. <br>
 The app include one dashboard page to display the list of inventory items with basic information, and a mechanism to add new items. <br>
 From this list, the user should be able to perform simple actions on specific items such as deleting items, updating items, and withdrawing or depositing items to update their count.
