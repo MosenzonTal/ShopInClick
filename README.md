@@ -53,6 +53,6 @@ Navigate to http://localhost:4200/. The app will automatically load the page.
 </p>
 
 <p align="center">
-   <b>~҉ ҉~҉   🎀 © Tal Mosenzon  🎀  ~҉ ҉~҉</b>
+   <b>~҉ ҉~҉   🎀 © 2020 Tal Mosenzon. All rights reserved. 🎀  ~҉ ҉~҉</b>
 </p>
 
