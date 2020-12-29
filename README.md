@@ -43,7 +43,7 @@ From this list, the user should be able to perform simple actions on specific it
 -----------------------------------------
 
 #### in the backend server run nodemon ./bin/www
-To make the server run
+to make the server run
 
 #### in the front end run ng serve / npm start.
 Navigate to http://localhost:4200/. The app will automatically load the page.
