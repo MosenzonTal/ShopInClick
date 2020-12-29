@@ -50,6 +50,9 @@ Navigate to http://localhost:4200/. The app will automatically load the page.
 
 <p align="center">
   <img src="https://i.ibb.co/3B9VJh5/58a06230-134c-41ff-bb8f-636b479350ec-200x200.png" width="250" title="hover text">
- <b>~҉ ҉~҉   🎀 © Tal Mosenzon  🎀  ~҉ ҉~҉</b>
+</p>
+
+<p align="center">
+   <b>~҉ ҉~҉   🎀 © Tal Mosenzon  🎀  ~҉ ҉~҉</b>
 </p>
 
