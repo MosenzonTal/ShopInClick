@@ -1,5 +1,10 @@
 # ShopInClick -
 
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/302087380/0b926100-08d9-11eb-865f-8a03c6e9d770" width="1050" title="hover text">
+</p>
+
+
 ### An Inventory Management application - ###
 
 A web app store which supports different operations which simulating proccess of buying products online until the checkout stage.<br>
@@ -43,6 +48,8 @@ To make the server run
 #### in the front end run ng serve / npm start.
 Navigate to http://localhost:4200/. The app will automatically load the page.
 
-![alt text](https://i.ibb.co/3B9VJh5/58a06230-134c-41ff-bb8f-636b479350ec-200x200.png)
+<p align="center">
+  <img src="https://i.ibb.co/3B9VJh5/58a06230-134c-41ff-bb8f-636b479350ec-200x200.png" width="250" title="hover text">
+ <b>~҉ ҉~҉   🎀 © Tal Mosenzon  🎀  ~҉ ҉~҉</b>
+</p>
 
-### ~҉ ҉~҉   🎀 © Tal Mosenzon  🎀  ~҉ ҉~҉ 
